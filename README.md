@@ -1,3 +1,4 @@
+[![npm](https://img.shields.io/npm/dm/gitbook-plugin-notocjk.svg)](https://www.npmjs.com/package/gitbook-plugin-notocjk)
 
 ## gitbook-plugin-notocjk
 
