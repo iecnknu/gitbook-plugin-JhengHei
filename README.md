@@ -6,7 +6,7 @@ To support Noto CJK font family and font embed in gitbook web version.
 * Headings for { font-family: 'cwTeXYen', sans-serif; }
 * Paragraph for { font-family: 'Noto Sans TC', sans-serif; }
 
-GitBook Plugin: https://plugins.gitbook.com/plugin/notocjk
+GitBook Plugin: [https://plugins.gitbook.com/plugin/notocjk](https://plugins.gitbook.com/plugin/notocjk)
 
 ### To Install
 
