@@ -1,23 +1,11 @@
-[![npm](https://img.shields.io/npm/dm/gitbook-plugin-notocjk.svg)](https://www.npmjs.com/package/gitbook-plugin-notocjk)
-
-## gitbook-plugin-notocjk
+## gitbook-plugin-JhengHei
 
 - **This project is not available for new Gitbook.com** 
 
 To support Noto CJK font family and font embed in gitbook web version.
-- Headings for { font-family: 'cwTeXYen', sans-serif; }
-- Paragraph for { font-family: 'Noto Sans TC', sans-serif; }
-
-GitBook Plugin: [https://plugins.gitbook.com/plugin/notocjk](https://plugins.gitbook.com/plugin/notocjk)
-
-### To Install
-
-add `notocjk` to `book.json` in `plugins`
-
-```
-"plugins": [ "notocjk" ]
-```
+- Headings for { font-family: 'JhengHei', sans-serif; }
+- Paragraph for { font-family: 'JhengHei', sans-serif; }
 
 ### Forked from
 
-[gitbook-plugin-unicodecss](https://github.com/setkyar/gitbook-plugin-unicodecss)
+[gitbook-plugin-notocjk](https://github.com/ycku/gitbook-plugin-notocjk)
