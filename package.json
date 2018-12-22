@@ -6,13 +6,13 @@
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/ycku/gitbook-plugin-JhengHei/",
+  "homepage": "https://github.com/iecnknu/gitbook-plugin-JhengHei/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ycku/gitbook-plugin-JhengHei/"
+    "url": "https://github.com/iecnknu/gitbook-plugin-JhengHei/"
   },
   "keywords": [
     "gitbookio",
@@ -23,6 +23,6 @@
   "author": "Roy Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ycku/gitbook-plugin-JhengHei/issues"
+    "url": "https://github.com/iecnknu/gitbook-plugin-JhengHei/issues"
   }
 }
