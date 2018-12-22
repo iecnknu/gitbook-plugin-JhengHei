@@ -1,18 +1,18 @@
 {
-  "name": "gitbook-plugin-notocjk",
-  "description": "Change to Noto CJK font family",
+  "name": "gitbook-plugin-JhengHei",
+  "description": "Change to JhengHei font family",
   "main": "index.js",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/ycku/gitbook-plugin-notocjk/",
+  "homepage": "https://github.com/ycku/gitbook-plugin-JhengHei/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ycku/gitbook-plugin-notocjk/"
+    "url": "https://github.com/ycku/gitbook-plugin-JhengHei/"
   },
   "keywords": [
     "gitbookio",
@@ -20,9 +20,9 @@
     "font",
     "plugin"
   ],
-  "author": "YC.KU",
+  "author": "Roy Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ycku/gitbook-plugin-notocjk/issues"
+    "url": "https://github.com/ycku/gitbook-plugin-JhengHei/issues"
   }
 }
